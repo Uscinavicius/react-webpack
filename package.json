@@ -1,0 +1,22 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "trying out webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uscinavicius/react-webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Darius Uscinavicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uscinavicius/react-webpack/issues"
+  },
+  "homepage": "https://github.com/Uscinavicius/react-webpack#readme"
+}
