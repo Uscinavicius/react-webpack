@@ -1,0 +1,4 @@
+// This file is used to tell babel what presets to use when transpiling our code.
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
